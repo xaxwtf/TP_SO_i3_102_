@@ -18,3 +18,45 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 hora: 14:29
+
+Matias Sanchez
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::240d:c17f:889b:e3c3%2
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::9117:b22f:6ed1:15d6%14
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.103
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de túnel isatap.{D494050A-289B-434C-A5EC-C1D794DDB95C}:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de túnel Conexión de área local* 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2001:0:34f1:8072:2cc0:1c1a:7035:9e5a
+   Vínculo: dirección IPv6 local. . . : fe80::2cc0:1c1a:7035:9e5a%15
+   Puerta de enlace predeterminada . . . . . : ::
+
+Adaptador de túnel isatap.{001E83E6-5112-4B33-A7DD-349A5AC60225}:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+La hora actual es: 20:28:57,78
