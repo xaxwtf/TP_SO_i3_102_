@@ -1,0 +1,85 @@
+Limachi Ramos Sergio Ariel 
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::39c2:b15a:8b3:cec7  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:e7:bd:ea  txqueuelen 1000  (Ethernet)
+        RX packets 6676  bytes 5037146 (5.0 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3337  bytes 512639 (512.6 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 174  bytes 15750 (15.7 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 174  bytes 15750 (15.7 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+hora: 14:29
+
+Matias Sanchez
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::240d:c17f:889b:e3c3%2
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::9117:b22f:6ed1:15d6%14
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.103
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de túnel isatap.{D494050A-289B-434C-A5EC-C1D794DDB95C}:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de túnel Conexión de área local* 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2001:0:34f1:8072:2cc0:1c1a:7035:9e5a
+   Vínculo: dirección IPv6 local. . . : fe80::2cc0:1c1a:7035:9e5a%15
+   Puerta de enlace predeterminada . . . . . : ::
+
+Adaptador de túnel isatap.{001E83E6-5112-4B33-A7DD-349A5AC60225}:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+La hora actual es: 20:28:57,78
+
+
+Eric Guzman
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::1554:15d4:9c36:9166  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:c4:6a:b0  txqueuelen 1000  (Ethernet)
+        RX packets 3258  bytes 4387067 (4.3 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1021  bytes 102286 (102.2 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 225  bytes 19601 (19.6 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 225  bytes 19601 (19.6 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        
+Wed 14 Oct 2020 03:37:07 PM -03
