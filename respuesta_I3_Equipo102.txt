@@ -1,0 +1,7 @@
+¿como queda el master despues de estos cambios?
+a- cargado con todos los datos de las ramas
+¿beta pudo ver todo los cambio que se realizaron?
+b- beta si pudo ver todos los cambios realizados en todas las ramas
+¿que debio hacer  en el punto 6 para poder hacer el merge?
+c- 1ro git checkout main
+    2do git merge sanchez
