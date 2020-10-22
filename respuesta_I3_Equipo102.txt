@@ -13,4 +13,9 @@ f- 1.git clone
    4. git add
    5. git commit
    6. git push
-   
+
+g-	1 git clone
+	2 Modifique el archivo beta.txt usando los comandos ifconfig y date
+	3 git add .
+	4 git commit -m
+	5 git push
